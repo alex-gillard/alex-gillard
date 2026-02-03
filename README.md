@@ -1,4 +1,4 @@
-# Hi, I'm Alex! 
+# Hi, I'm Alex! 👋
 <a href="https://www.linkedin.com/in/alexander-gillard-493800241/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I apply the rigor of molecular biology to the world of bits and bytes. From docking ligands in AutoDock Vina to analyzing attack vectors, I solve digital problems with a scientist’s precision and a researcher’s curiosity.
