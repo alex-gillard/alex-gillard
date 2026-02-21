@@ -1,46 +1,50 @@
 # Hi, I'm Alex! 👋
 <a href="https://www.linkedin.com/in/alexander-gillard-493800241/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I apply the rigor of molecular biology to the world of bits and bytes. From docking ligands in AutoDock Vina to analyzing attack vectors, I solve digital problems with a scientist’s precision and a researcher’s curiosity.
-
+With a foundational background in Biochemistry, I bring a researcher’s mindset to cybersecurity—trading molecular modeling for threat detection and SIEM analysis. I apply a scientist's precision to every attack vector I analyze and every lab I build.
 ## Objective
 
 Eagerly pivoting to pursue a career in the cybersecurity industry after acquring a strong analytical foundation from a B.Sc. degree in Biochemistry & Molecular Biology. My goal is to apply my skills to a defensive cybersecurity environment, joining a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 
-## Skills
+## 🛡️ Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| TBD          | TBD|
-| TBD | TBD|
-| TBD        | TBD|
+| Skill                                         | Associated Project                         |
+|-----------------------------------------------|--------------------------------------------|
+| **SIEM Detection Engineering & Correlation** | [EternalBlue Exploit Detection & Analysis](#) |
+| **Vulnerability Assessment & Research** | [EternalBlue Exploit Detection & Analysis](#) |
+| **Purple Team Methodology (Offense/Defense)** | [EternalBlue Exploit Detection & Analysis](#) |
+| **Endpoint Forensic Analysis** | [EternalBlue Exploit Detection & Analysis](#) |
 
-
-## Tools
+## 🛠️ Tools
 
 ### Network
 <div>
-
+    <img src="https://img.shields.io/badge/-Nmap-006400?&style=for-the-badge&logo=nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-2496ED?&style=for-the-badge&logo=metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
-
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kali-linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_Server-0078D6?&style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysmon-FFB900?&style=for-the-badge&logo=microsoft&logoColor=black" />
 </div>
 
-## Certifications
+## 📜 Certifications
 
 <div>
   <a href="https://www.credly.com/earner/earned/badge/e857ca52-2f0d-493f-b700-a53e96554c0a"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
   <a href="https://www.credly.com/earner/earned/badge/cdde1809-81d5-4899-85ca-1d78a00493c1"><img src="https://img.shields.io/badge/Google-Professional%20Cert-white?style=for-the-badge&logo=google&logoColor=4285F4&labelColor=ececec" /></a>
 </div>
 
-## Projects
-- TBD
+## 📁 Projects
+- **[Detection and Analysis of the EternalBlue Exploit (CVE-2017-0144) in a Virtualized SIEM Homelab]**
+  - *A 34-page technical deep-dive into the end-to-end lifecycle of an RCE attack. Developed high-fidelity Splunk correlation logic to identify automated exploits via unique Windows Logon Type signatures (Type 5/Type 3).*
